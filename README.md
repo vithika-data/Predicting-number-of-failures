@@ -1,7 +1,7 @@
 # Predicting-number-of-failures
 To predict the times a system will fail in the next hour when given timestamp of failures
 
-Problem Summary:
+## Problem Summary:
 The timestamp of failures were given in JSON file. I had the following task in hand:
 1. Aggregate timestamps on 15 minute time intervals
 2. Visualise and find underlying patterns of the number of failures. Discuss the insights on these visualisations
